@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Sweetsica Hugo</title>
+    <link>http://localhost:1995/tags/news/</link>
+    <description>Recent content in News on Sweetsica Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <atom:link href="http://localhost:1995/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài viết tin tức</title>
+      <link>http://localhost:1995/posts/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1995/posts/news/</guid>
+      <description>Đây là bài viết tin tức</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1995/posts/news/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

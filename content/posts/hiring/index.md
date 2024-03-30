@@ -2,7 +2,7 @@
 title: "Bài viết tuyển dụng"
 description: "Mô tả"
 slug: '/tuyen-dung'
-
+tags: [ "hiring" ]
 ---
 
 
